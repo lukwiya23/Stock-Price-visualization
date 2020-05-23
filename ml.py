@@ -9,4 +9,4 @@ shown below are the stock closing price and volume of Google
 
 """)
 
-# https://towardsdatascience
+# https://towardsdatascience.com
