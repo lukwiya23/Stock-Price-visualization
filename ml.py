@@ -16,3 +16,5 @@ tickerSymbol = 'GOOGL'
 
 #get data of the ticker
 tickerData = yf.Ticker(tickerSymbol)
+
+#get the historical prices of the year
