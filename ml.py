@@ -20,3 +20,5 @@ tickerData = yf.Ticker(tickerSymbol)
 #get the historical prices of the year
 
 tickerDf = tickerData.history(period='1d', start='2015-5-31',end='2020-5-31')
+
+#Open  High  Low close  Volume  Dividends  Stock splits
